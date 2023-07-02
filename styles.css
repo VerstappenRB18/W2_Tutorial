@@ -1,0 +1,60 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+#logo img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+nav {
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-link {
+    display: inline;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.nav-link a {
+    text-decoration: none;
+    color: grey;
+}
+
+.nav-link a:hover {
+    color: darkgrey;
+}
+
+p.discounted-price {
+    font-size: 20px;
+}
+
+
+main h2 {
+    color: rgb(33, 33, 33);
+}
+
+p.original-price {
+    color: rgb(117, 117, 117);
+}
+
+.windows11 img {
+    border: 1px solid rgb(33, 33, 33);
+}
+
+.mcafee img {
+    border: 1px solid rgb(33, 33, 33);
+}
+
+.district {
+    width: 125px;
+}
+
+.submit-button {
+    background-color: red;
+    color: white
+}
